@@ -55,15 +55,6 @@
     - Deletar uma praia por identificador.
 
 
-## 🚀 Acessando Projeto Final - Lab_Beach
-
-Para acessar o projeto, siga estas etapas:
-
-:mammoth: Acesso ao PostgreSQL:  
-
-    - Usuário: postgre  
-    - Senha: 12345
-
 ## ☕ Usando Projeto Final - Lab_Beach no Insomnia
 
 Para usar Projeto Final - Lab_Beach no Insomnia, siga estas etapas:
