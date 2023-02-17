@@ -75,7 +75,7 @@ e a seguir, em "value", o valor inteiro referente à população que você desej
 - Ao atualizar um cadastro, utilize o JSON como método de envio das informações que você deseja atualizar ao invés do Query.
 ## 🤝 Colaboradores
 
-Agradeço aos professores Elder e Jaime pos todos os conhecimentos adquiridos até aqui e me apresento como proprietária do projeto:
+Agradeço aos professores Elder e Jaime por todos os conhecimentos adquiridos até aqui e me apresento como proprietária do projeto:
 
 <table>
   <tr>
