@@ -66,6 +66,10 @@ ou
 ```
 Imprópria
 ```
+- Ao procurar praias em bairros com determinado valor de população utilize o seguinte "value" na opção "Query" do GET no Insomnia:
+```
+num
+```
 
 ## 🤝 Colaboradores
 
