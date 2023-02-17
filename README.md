@@ -2,7 +2,7 @@
 
 <img src="imagem1-readme.png" alt="imagem 1">
 
-> Este projeto é referente ao projeto final do curso Futuro DEV do SENAI-SC em parceria com a Prefeitura de Florianópolis. É a criação de um back-end de um sistema (API REST) de listas de praias da cidade de Florianópolis na linguagem Java, utilizando o modelo CRUD e desenvolvido com as ferramentas Spring Boot, IntelliJ IDEA, PostgresSQL e Insomnia como API REST Client.
+> Olá! Bem vindo ao repositório projeto é referente ao projeto final do curso Futuro DEV do SENAI-SC em parceria com a Prefeitura de Florianópolis. É a criação de um back-end de um sistema (API REST) de listas de praias da cidade de Florianópolis na linguagem Java, utilizando o modelo CRUD e desenvolvido com as ferramentas Spring Boot, IntelliJ IDEA, PostgresSQL e Insomnia como API REST Client.
 
 ## 💻 Pré-requisitos
 
@@ -66,11 +66,11 @@ ou
 ```
 Imprópria
 ```
-- Ao procurar praias em bairros com determinado valor de população utilize o seguinte "value" na opção "Query" do GET no Insomnia:
+- Ao procurar praias em bairros com determinado valor de população utilize o seguinte "name" na opção "Query" do GET no Insomnia:
 ```
 num
 ```
-
+e a seguir, em value, o valor inteiro referente à população que você deseja.
 ## 🤝 Colaboradores
 
 Agradeço aos professores Elder e Jaime pos todos os conhecimentos adquiridos até aqui e me apresento como proprietária do projeto:
