@@ -2,7 +2,7 @@
 
 <img src="imagem1-readme.png" alt="imagem 1">
 
-> Olá! Bem vindo ao repositório projeto é referente ao projeto final do curso Futuro DEV do SENAI-SC em parceria com a Prefeitura de Florianópolis. É a criação de um back-end de um sistema (API REST) de listas de praias da cidade de Florianópolis na linguagem Java, utilizando o modelo CRUD e desenvolvido com as ferramentas Spring Boot, IntelliJ IDEA, PostgresSQL e Insomnia como API REST Client.
+> Olá! Bem vindo ao repositório do projeto Lab_Beach. Este repositório é referente ao projeto final do curso FuturoDEV do SENAI-SC em parceria com a Prefeitura de Florianópolis. É a criação de um back-end de um sistema (API REST) de listas de praias da cidade de Florianópolis na linguagem Java, utilizando o modelo CRUD e desenvolvido com as ferramentas Spring Boot, IntelliJ IDEA, PostgresSQL e Insomnia como API REST Client.
 
 ## 💻 Pré-requisitos
 
