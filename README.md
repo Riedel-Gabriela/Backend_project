@@ -1,4 +1,5 @@
-<h1>Projeto Final Lab_Beach Backend (Módulo 1 - FuturoDEV)</h1>
+<head>FuturoDEV</head>
+<h1>Projeto Final Lab_Beach Backend (Módulo 1)</h1>
 
 <img src="imagem1-readme.png" alt="imagem 1">
 
@@ -107,4 +108,4 @@ Agradeço aos professores Elder e Jaime por todos os conhecimentos adquiridos at
 </table>
 
 
-[⬆ Voltar ao topo](#Projeto)<br>
+[⬆ Voltar ao topo](#FuturoDEV)<br>
