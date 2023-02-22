@@ -15,9 +15,9 @@
 
 :white_check_mark: Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Preferencialmente utilize o IntelliJ IDEA para abrir e rodar o projeto `<https://www.jetbrains.com/pt-br/idea/>`
-* Para acessar o banco de dados PostgreSQL, utilize o pgAdmin 4 `<https://www.pgadmin.org/download/>`
-* Caso queira o Insomnia como API REST Client `<https://insomnia.rest/download>`.
+* Preferencialmente utilize o [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/) para abrir e rodar o projeto
+* Para acessar o banco de dados PostgreSQL, utilize o [pgAdmin 4](https://www.pgadmin.org/download/)
+* Caso queira o [Insomnia](https://insomnia.rest/download) como API REST Client
 
 :white_check_mark: Requisitos Cumpridos do Projeto:
 - Cadastro de bairro:
@@ -107,4 +107,4 @@ Agradeço aos professores Elder e Jaime por todos os conhecimentos adquiridos at
 </table>
 
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](Lab_Beach-Backend)<br>
