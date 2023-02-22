@@ -1,5 +1,5 @@
-<head>FuturoDEV</head>
-<h1>Projeto Final Lab_Beach Backend (Módulo 1)</h1>
+<head>FuturoDEV - Módulo 1</head>
+<h1>Projeto Lab_Beach Backend</h1>
 
 <img src="imagem1-readme.png" alt="imagem 1">
 
